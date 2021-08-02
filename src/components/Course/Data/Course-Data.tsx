@@ -1,7 +1,7 @@
 export const items = [
     {
       id: 1,
-      title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+      title: "Responsive Design Course XYZ How to design reponsive templates",
       author: "Joseph Marie",
       price: "Rs 563/-",
       discountedPrice: "-",
@@ -9,7 +9,7 @@ export const items = [
     },
     {
         id: 2,
-        title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+        title: "Responsive Design Course XYZ How to design reponsive templates",
         author: "Joseph Marie",
         price: "Rs 563/-",
         discountedPrice: "Rs 923/-",
@@ -17,7 +17,7 @@ export const items = [
      },
      {
         id: 3,
-        title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+        title: "Responsive Design Course XYZ How to design reponsive templates",
         author: "Joseph Marie",
         price: "Rs 563/-",
         discountedPrice: "Rs 923/-",
@@ -25,7 +25,7 @@ export const items = [
       },
       {
         id: 4,
-        title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+        title: "Responsive Design Course XYZ How to design reponsive templates",
         author: "Joseph Marie",
         price: "Rs 563/-",
         discountedPrice: "-",
@@ -33,7 +33,7 @@ export const items = [
       },
       {
         id: 5,
-        title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+        title: "Responsive Design Course XYZ How to design reponsive templates",
         author: "Joseph Marie",
         price: "Rs 563/-",
         discountedPrice: "-",
@@ -41,7 +41,7 @@ export const items = [
       },
       {
         id: 6,
-        title: "Responsive Design Course XYZ How <br> to design reponsive templates",
+        title: "Responsive Design Course XYZ How to design reponsive templates",
         author: "Joseph Marie",
         price: "Rs 563/-",
         discountedPrice: "-",
